@@ -20,7 +20,7 @@ Hacker's Digital Diary is a simple Python application built with Tkinter, design
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/digital-diary.git
+    https://github.com/Malik-Abdul-Rafay/BQ-3.0-FP-DigitalDiary.git
     ```
 
 2. Navigate to the project directory:
